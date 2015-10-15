@@ -9,3 +9,6 @@ Install node and run
 * `npm install`
 * `npm test`
 * `npm start`
+
+
+Flatten algorithim in `/lib`
