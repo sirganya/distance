@@ -1,5 +1,5 @@
 # Distance
 
-`npm install`
-`npm start`
-`npm test`
+* `npm install`
+* `npm test`
+* `npm start`
